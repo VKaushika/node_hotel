@@ -2,3 +2,5 @@
 node_modules/
 
 #Other entries
+intercon.js
+server_d3.js
